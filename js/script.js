@@ -10,7 +10,7 @@ const colorRefs = {
     startBtn: document.querySelector('[data-action="start"]'),
     stopBtn: document.querySelector('[data-action="stop"]'),
 }
-const colorTime = null;
+let colorTime = null;
 
 
 
